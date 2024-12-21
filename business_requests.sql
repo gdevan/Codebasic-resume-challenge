@@ -1,3 +1,5 @@
+USE trips_db;
+
 -- Business Request - 1: City-Level Fare and Trip Summary Report 
 SELECT 
     dc.city_name,
