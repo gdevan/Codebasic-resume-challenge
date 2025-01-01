@@ -62,7 +62,7 @@
 ### **5. Operational Targets 🎯**
 - 🔹 **Tourism-focused cities:** Tend to exceed their targets in trip volume and average passenger rating (e.g., Mysore and Jaipur).  
 - 🔹 **Business-focused cities:** Excel in attracting new passengers (e.g., Coimbatore and Surat).  
-- 🔹 **Mixed-use cities:** Consistently meet targets across all metrics (e.g., Chandigarh and Surat).  
+- 🔹 **Mixed-use cities:** Consistently meet targets across all metrics (e.g., Chandigarh and Indore).  
 - 💡 **Recommendation**: Strengthen new passenger retention in tourism cities, enhance trip volume in business cities, and sustain balanced efforts across metrics in mixed-use cities.  
 
 ---
