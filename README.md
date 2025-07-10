@@ -20,31 +20,27 @@ However, the Chief of Operations, Bruce Haryali, wanted this immediately, but th
 ## Tools
 - SQL: Craft sql-queries to get table reports and answer business questions.
 
-## Key Insights and Recommendations
+## Key Insights 
 
 ### **1. Trip Volume & Distribution 📊**
 - 🔹 **Cities Insights**: Jaipur, Lucknow, and Surat lead in trip volume, while Mysore, Coimbatore, and Visakhapatnam lag.  
-- 🔹 **Months Insights**: All cities show higher trip demand in February and March, with low demand in June.  
-- 💡 **Recommendation**: Boost marketing efforts in low-performing cities and off-peak months with targeted campaigns and discounts.  
+- 🔹 **Months Insights**: All cities show higher trip demand in February and March, with low demand in June.    
 
 ---
 
 ### **2. Passenger Satisfaction & Ratings ⭐**
 - 🔹 **Insight**: Mysore and Kochi have the highest passenger and driver ratings, while Surat, Lucknow, and Vadodara show lower satisfaction levels. New passengers give higher ratings compared to repeat passengers.  
-- 💡 **Recommendation**: Improve service quality in low-rated cities through driver training, vehicle upkeep, and personalized customer interactions.  
 
 ---
 
 ### **3. Repeat Passenger Rate (RPR) 🔄**
 - 🔹 **Cities Insights**: Surat (43%) and Lucknow (37%) excel in RPR, while Jaipur (17%) and Mysore (11%) struggle.  
 - 🔹 **Months Insights**: RPR peaks in May-June due to seasonal demand and declines in January.  
-- 💡 **Recommendation**: Launch loyalty programs and referral bonuses in low RPR cities to encourage retention.  
 
 ---
 
 ### **4. Pricing & Distance Optimization 💸**
 - 🔹 **Insight**: Jaipur has the highest fare per trip (₹484) due to longer trip distances and high fare per km, while Surat offers the lowest (₹117).  
-- 💡 **Recommendation**: Reassess fare strategies to balance affordability and profitability, especially in tourism-focused cities to increase RPR.  
 
 ---
 
@@ -52,13 +48,11 @@ However, the Chief of Operations, Bruce Haryali, wanted this immediately, but th
 - 🔹 **Tourism-focused cities:** Tend to exceed their targets in trip volume and average passenger rating (e.g., Mysore and Jaipur).  
 - 🔹 **Business-focused cities:** Excel in attracting new passengers (e.g., Coimbatore and Surat).  
 - 🔹 **Mixed-use cities:** Consistently meet targets across all metrics (e.g., Chandigarh and Indore).  
-- 💡 **Recommendation**: Strengthen new passenger retention in tourism cities, enhance trip volume in business cities, and sustain balanced efforts across metrics in mixed-use cities.  
 
 ---
 
 ### **6. Emerging Mobility Trends 🌱**
 - 🔹 **Insight**: Electric vehicles (EVs) and sustainability are gaining traction, especially in cities with high trip distances like Jaipur.  
-- 💡 **Recommendation**: Deploy EVs strategically to reduce costs and attract eco-conscious passengers. Partner with local businesses for EV charging infrastructure.  
 
 
 
