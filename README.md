@@ -1,14 +1,10 @@
 # Codebasics Resume Project Challenge #13
 
-## Table of Contents
-- [Objective](#objective)
-- [Key Metrics](#key-metrics)
-- [Tools](#tools)
-- [Data Model](#data-model)
-- [Key Insights and Recommendations](#key-insights-and-recommendations)
-- [Reflections](#reflections)
-- [Dashboard Screenshots](#dashboard-screenshots)
-- [Links](#links)
+Goodcabs, a cab service company established two years ago, has gained a strong foothold in the Indian market by focusing on tier-2 cities. Unlike other cab service providers, Goodcabs is committed to supporting local drivers, helping them make a sustainable living in their hometowns while ensuring excellent service to passengers. With operations in ten tier-2 cities across India, Goodcabs has set ambitious performance targets for 2024 to drive growth and improve passenger satisfaction. 
+
+As part of this initiative, the Goodcabs management team aims to assess the company’s performance across key metrics, including trip volume, passenger satisfaction, repeat passenger rate, trip distribution, and the balance between new and repeat passengers. 
+
+However, the Chief of Operations, Bruce Haryali, wanted this immediately, but the analytics manager, Tony, is engaged in another critical project. Tony decided to give this work to Peter Pandey who is the curious data analyst of Goodcabs. Since these insights will be directly reported to the Chief of Operations, Tony also provided some notes to Peter to support his work. 
 
 ## Objective
 **Objective: Assess the company's performance across key metrics to boost trip volume and improve passenger satisfaction.**
@@ -22,16 +18,9 @@
 - Balance between New and Repeat Passengers
 
 ## Tools
-
-- PowerBI: Create interactive, self-explanatory dashboard to get insights through visualizations.
 - SQL: Craft sql-queries to get table reports and answer business questions.
 
-## Data Model
-
-![data model](readme_images/data_model.png)
-
 ## Key Insights and Recommendations
-
 
 ### **1. Trip Volume & Distribution 📊**
 - 🔹 **Cities Insights**: Jaipur, Lucknow, and Surat lead in trip volume, while Mysore, Coimbatore, and Visakhapatnam lag.  
@@ -71,88 +60,5 @@
 - 🔹 **Insight**: Electric vehicles (EVs) and sustainability are gaining traction, especially in cities with high trip distances like Jaipur.  
 - 💡 **Recommendation**: Deploy EVs strategically to reduce costs and attract eco-conscious passengers. Partner with local businesses for EV charging infrastructure.  
 
-## Reflections
-
-- 🛠️ Improved skills in SQL, PowerBI.  
-- 📊 Gained hands-on experience in data analysis and storytelling.  
-- 🌍 Developed a deeper understanding of ride-hailing operations, optimizing trip volume, pricing strategies.
-- 🚀 Applied technical knowledge to solve real-world data problems.  
 
 
-## Dashboard Screenshots
-
-### Main Page
-
-![main page](readme_images/main_page.png)
-
-### Overview Page
-
-**Trips Analysis**
-
-![overview1](readme_images/overview1.png)
-
----
-
-**Revenue Analysis**
-
-![overview2](readme_images/overview2.png)
-
----
-
-**Distance Analysis**
-
-![overview3](readme_images/overview3.png)
-
-### Ratings Page
-
-**Passenger Rating**
-
-![ratings1](readme_images/ratings1.png)
-
----
-
-**Driver Rating**
-
-![ratings2](readme_images/ratings2.png)
-
----
-
-**Passenger vs. Driver Rating**
-
-![ratings3](readme_images/ratings3.png)
-
-### Passengers Page
-
-**Repeat vs. New Passengers**
-
-![passengers1](readme_images/passengers1.png)
-
----
-
-**Repeat Passengers**
-
-![passengers2](readme_images/passengers2.png)
-
-### Targets Page
-
-**Target Trips**
-
-![targets1](readme_images/targets1.png)
-
----
-
-**Target New Passengers**
-
-![targets2](readme_images/targets2.png)
-
----
-
-**Target Avg Passenger Rating**
-
-![targets3](readme_images/targets3.png)
-
-## Links
-
-**Live Dashboard Link:** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODQ0YzEwNzgtNmJkYy00YmYyLWIyNDUtOGQ2MDk1ZDEyZDk2IiwidCI6ImI2OTBkMDhlLWY5OTctNDFhNi1hMzhiLWM3MzJhZjA5OTkzYiIsImMiOjh9)
-
-**Video Presentation Link:** [Video Presentation](https://youtu.be/iNzZYb9-qSE)
